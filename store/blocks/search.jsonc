@@ -201,8 +201,14 @@
 
   "flex-layout.row#depBanner": {
     "children": [
-      "info-card#depbanner"
+      "image#depbanner"
     ]
+  },
+
+  "image#depbanner": {
+    "props": {
+      "src": "assets/pexels-edgars-kisuro-1488463.jpg"
+    }
   },
 
   "search-result-layout.mobile#dep": {
